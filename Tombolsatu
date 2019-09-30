@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Tombol Download Keren Blogger</title>
+   
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<style type="text/css">
+				#wrap {
+ margin:20px auto;
+ text-align:center;
+}
+#wrap br {
+ display:none;
+}
+.btn {
+ display:inline-block;
+ position:relative;
+ font-family:'Source Sans Pro', Helvetica, sans-serif;
+ background:#FF8C00;
+ padding:6px 14px;
+ font-size:14px;
+ margin:0 3px;
+ color:#fff!important;
+ border-radius:3px;
+ border:none;
+ text-transform:uppercase;
+ text-decoration:none;
+ transition:all 0.3s ease-out;
+}
+.btn.down {
+ background:#28a1f0;
+ color:#fff!important;
+}
+.btn.down:hover,.btn.down:active,.btn:hover,.btn:active {
+ background:#3b3f48;
+ color:#fff;
+}
+a.btn.down:hover,a.btn.down:active,a.btn:hover,a.btn:active {
+ color:#fff;
+}
+.btn i {
+ margin-left:10px;
+ font-weight:normal;
+ font-family:FontAwesome;
+}
+			</style>
+	</head>
+	<body>	
+		<div id="wrap">
+			<a href="https://sworochord.blogspot.com/2019/09/chord-judika-cinta-karena-cinta.html" class="btn" rel="nofollow" target="_blank" title="Chord Judika cinta karena cinta">Live Demo <i class="fa fa-paper-plane"></i></a>
+
+			<a href="https://sworochord.blogspot.com/2019/09/chord-munajat-cinta-rock-alexa-key.html" class="btn down" rel="nofollow" target="_blank" title="chord munajat cinta">Download <i class="fa fa-download"></i></a>
+			<br/><br/></div>
+		<br/><br/>
+	</body>
+</html>
